@@ -1,6 +1,6 @@
 {
-  "prompt": "A photorealistic, National Geographic style photo. A hiker is stranded on a highly uneven, rocky mountainside engulfed in a blindingly thick, white fog... [insert full prompt]",
+  "prompt": "A photorealistic, National Geographic style photo. A hiker is stranded on a highly uneven, rocky mountainside engulfed in a blindingly thick, white fog. The hiker cannot see the landscape or the bottom of the mountain. They are crouching slightly, cautiously reaching one heavy hiking boot out to feel the immediate physical slope of the rocks beneath them, actively testing which way the ground tilts downward to take their next step. Completely natural, physically plausible. No text, no graphs, no glowing elements, no sci-fi overlays.",
   "model": "Midjourney v6.1",
   "concept": "Gradient Descent",
-  "metaphor": "A hiker in blinding fog feeling the local slope of the rocks with their boot to step downward, mapping to how the algorithm finds a minimum without seeing the global loss landscape."
+  "metaphor": "A hiker in thick fog feels the immediate slope to step downwards, mirroring how gradient descent finds a minimum without seeing the entire loss landscape."
 }
