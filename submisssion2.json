@@ -1,0 +1,6 @@
+{
+  "prompt": "A photorealistic, National Geographic style photo. A hiker is stranded on a highly uneven, rocky mountainside engulfed in a blindingly thick, white fog... [insert full prompt]",
+  "model": "Midjourney v6.1",
+  "concept": "Gradient Descent",
+  "metaphor": "A hiker in blinding fog feeling the local slope of the rocks with their boot to step downward, mapping to how the algorithm finds a minimum without seeing the global loss landscape."
+}
